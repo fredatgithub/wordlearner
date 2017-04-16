@@ -1,0 +1,8 @@
+/Users/alexandertroup/dev/jquerywithcore/backend/bin/Debug/netcoreapp1.0/backend.deps.json
+/Users/alexandertroup/dev/jquerywithcore/backend/bin/Debug/netcoreapp1.0/backend.runtimeconfig.json
+/Users/alexandertroup/dev/jquerywithcore/backend/bin/Debug/netcoreapp1.0/backend.runtimeconfig.dev.json
+/Users/alexandertroup/dev/jquerywithcore/backend/bin/Debug/netcoreapp1.0/backend.dll
+/Users/alexandertroup/dev/jquerywithcore/backend/bin/Debug/netcoreapp1.0/backend.pdb
+/Users/alexandertroup/dev/jquerywithcore/backend/obj/Debug/netcoreapp1.0/backend.AssemblyInfo.cs
+/Users/alexandertroup/dev/jquerywithcore/backend/obj/Debug/netcoreapp1.0/backend.dll
+/Users/alexandertroup/dev/jquerywithcore/backend/obj/Debug/netcoreapp1.0/backend.pdb
