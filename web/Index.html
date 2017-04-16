@@ -5,6 +5,13 @@
     <script type="text/javascript" src="jquery/jquery-3.2.1.js"></script>
   </head>
   <body>
+    <script type="text/javascript">
+      $.get("http://localhost:5000/api/quiz/1", 
+        function(data){
+          debugger;
+          console.log(data);
+      });
+    </script>
     <H1>This is the most beautiful page I have ever seen!</H1>
     <H2>Remaining tasks:</H2>
     <ul>
