@@ -9315,16 +9315,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexandertroup/dev/jquerywithcore/backend/backend.csproj",
+      "projectUniqueName": "/Users/alexandertroup/dev/wordlearner/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/Users/alexandertroup/dev/jquerywithcore/backend/backend.csproj",
-      "outputPath": "/Users/alexandertroup/dev/jquerywithcore/backend/obj/",
+      "projectPath": "/Users/alexandertroup/dev/wordlearner/backend/backend.csproj",
+      "outputPath": "/Users/alexandertroup/dev/wordlearner/backend/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
       ],
       "files": {
-        "lib/netcoreapp1.0/backend.dll": "/Users/alexandertroup/dev/jquerywithcore/backend/bin/placeholder/netcoreapp1.0/backend.dll"
+        "lib/netcoreapp1.0/backend.dll": "/Users/alexandertroup/dev/wordlearner/backend/bin/placeholder/netcoreapp1.0/backend.dll"
       },
       "frameworks": {
         "netcoreapp1.0": {
